@@ -1,7 +1,7 @@
 # Conecting to Tenant 
 # Prompt user for log in
 # Select Subscription
-# Remove the tags
+# Remove the variables
 
 Connect-AzAccount
 
