@@ -1,7 +1,7 @@
 # Conecting to Tenant 
 # Prompt user for log in
 # Select Subscription
-# Remove the tags
+# Remove the variables
 
 # Automation Account and Resource Group
 $automationAccountName = "aaName"   #replace later
